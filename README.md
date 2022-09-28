@@ -3,7 +3,7 @@
 - This is a practical example using Pusher Websocket.
 - This is a Pusher Client which shows codes on how to subscribe to pusher channels and receive message via pusher event.
 - This is a Console Application using .NET 4.8.1 Framework. Not tested in older or latest .NET.
-- This example is only public via channel.
+- This example is only via public channel.
 
 ## Packages Installed
 
